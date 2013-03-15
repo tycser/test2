@@ -13,6 +13,7 @@ import android.gameengine.icadroids.engine.GameEngine;
  */
 public class Alarm {
 	/**
+	 * hallo
 	 * The ID of the alarm. You can give an alarm an unique ID. In this way you can
 	 * distinguish between alarms if you have more than one.
 	 */
